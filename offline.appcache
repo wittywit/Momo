@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1509947400
+#1510849459
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -10,6 +10,7 @@ images/tiledbackground.png
 images/asset-sheet0.png
 images/momo-sheet0.png
 images/momo-sheet1.png
+images/momo-sheet2.png
 images/tiledbackground2.png
 images/tiledbackground3.png
 images/tiledbackground5.png
@@ -40,12 +41,27 @@ images/shadedlight3-sheet0.png
 images/dooropen_top-sheet0.png
 images/doorgreen_lock-sheet0.png
 images/dooropen-sheet0.png
+images/asset2-sheet0.png
+images/tiledbackground18.png
+images/asset3-sheet0.png
+images/tiledbackground19.png
+images/tilemap.png
+images/tiledbackground20.png
+images/loadingbar.png
+images/particles.png
 media/collect%20gem.m4a
 media/collect%20gem.ogg
 media/enemyhit.m4a
 media/enemyhit.ogg
 media/hit.m4a
 media/hit.ogg
+media/loop.ogg
+media/collect%20pump.m4a
+media/collect%20pump.ogg
+media/jump.m4a
+media/jump.ogg
+media/dead.m4a
+media/dead.ogg
 icon-16.png
 icon-32.png
 icon-114.png
